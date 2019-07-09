@@ -1,4 +1,4 @@
-#Deep Reinforcement Learning in Energy Market
+## Deep Reinforcement Learning in Energy Market
 
 *Chengda Ji, and Pengcheng You*
 
